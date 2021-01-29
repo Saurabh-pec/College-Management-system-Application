@@ -17,7 +17,7 @@
   
   
   Sample image look like:- 
-  ![calc_img](https://raw.githubusercontent.com/Saurabh-pec/Collage-Management-system-Application/master/1%20Screenshot%20(362).png)
+  ![calc_img](https://raw.githubusercontent.com/Saurabh-pec/College-Management-system-Application/master/rsz_1_screenshot_362.jpg)
 ## Technologies Used:
   * Apache netbeans 12.1
   * java Swing
