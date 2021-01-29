@@ -9,8 +9,7 @@
   <br>
   Here, We also used databased i.e, 'java derby' for store all details. We can use it to view/refer any student details. this database connected to java-swing part so any change/modify in swing part, will direectly enter in databased.
 ## Demo
-  * Following image: 
-  [here](https://raw.githubusercontent.com/Saurabh-pec/Collage-Management-system-Application/master/2%20Screenshot%20(361).png) 
+  * Following image[here] (https://raw.githubusercontent.com/Saurabh-pec/Collage-Management-system-Application/master/2%20Screenshot%20(361).png) 
   
   [Img1](https://raw.githubusercontent.com/Saurabh-pec/Collage-Management-system-Application/master/1%20Screenshot%20(362).png) 
   
