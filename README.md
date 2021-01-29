@@ -10,10 +10,13 @@
   Here, We also used databased i.e, 'java derby' for store all details. We can use it to view/refer any student details. this database connected to java-swing part so any change/modify in swing part, will direectly enter in databased.
 ## Demo
   * Following image: [here](https://raw.githubusercontent.com/Saurabh-pec/Collage-Management-system-Application/master/2%20Screenshot%20(361).png).<br>
-  [Img1](https://raw.githubusercontent.com/Saurabh-pec/Collage-Management-system-Application/master/1%20Screenshot%20(362).png)<br>
-  [Img2](https://raw.githubusercontent.com/Saurabh-pec/Collage-Management-system-Application/master/3%20Screenshot%20(380).png)<br>
-  [Img3](https://raw.githubusercontent.com/Saurabh-pec/Collage-Management-system-Application/master/Screenshot%20(364).png)<br>
-  [Img4](https://raw.githubusercontent.com/Saurabh-pec/Collage-Management-system-Application/master/2%20Screenshot%20(361).png)<br>
+  [Img1](https://raw.githubusercontent.com/Saurabh-pec/Collage-Management-system-Application/master/1%20Screenshot%20(362).png)
+  
+  <br>[Img2](https://raw.githubusercontent.com/Saurabh-pec/Collage-Management-system-Application/master/3%20Screenshot%20(380).png)
+  
+  <br>[Img3](https://raw.githubusercontent.com/Saurabh-pec/Collage-Management-system-Application/master/Screenshot%20(364).png)
+  
+  <br>[Img4](https://raw.githubusercontent.com/Saurabh-pec/Collage-Management-system-Application/master/2%20Screenshot%20(361).png)
   
   
   Sample image look like:- 
