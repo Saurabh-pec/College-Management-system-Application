@@ -12,6 +12,8 @@
 ## Demo
   * Following image [here](https://raw.githubusercontent.com/Saurabh-pec/Collage-Management-system-Application/master/2%20Screenshot%20(361).png) 
   
+  ![Demo](https://raw.githubusercontent.com/Saurabh-pec/Collage-Management-system-Application/master/3%20Screenshot%20(380).png)
+  
   [Img1](https://raw.githubusercontent.com/Saurabh-pec/Collage-Management-system-Application/master/1%20Screenshot%20(362).png) 
   
   [Img2](https://raw.githubusercontent.com/Saurabh-pec/Collage-Management-system-Application/master/3%20Screenshot%20(380).png)
